@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "howdy@mrpowergamerbr.com",
+                "Name": "MrPowerGamerBR"
+            }
+        ],
+        "Category": "",
+        "Description": "PowerBreeze by MrPowerGamerBR",
+        "EnabledByDefault": true,
+        "Id": "powerbreeze",
+        "License": "LGPL",
+        "Name": "PowerBreeze",
+        "Version": "6.14.0",
+        "Website": "https://www.kde.org/"
+    },
+    "X-Plasma-API": "5.0"
+}
